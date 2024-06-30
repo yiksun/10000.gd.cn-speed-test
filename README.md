@@ -20,3 +20,6 @@ apt-get install chromium-driver
 [ChromeDriver by Electron](https://github.com/electron/electron/)
 
 `apt-get install libnss3 (可选, 只有当提示libnss3.so missing时才安装)`
+
+## 反爬虫
+[stealth.min.js](https://github.com/requireCool/stealth.min.js)
